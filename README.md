@@ -6,6 +6,9 @@ The CRUD acronym identifies all of the major functions that are inherent to rela
 The four CRUD functions can perform different types of operations on selected data within the database.
 
 CRUD operations are widely used in many applications that are supported by underlying relational databases.
+
+[Click HERE To View App](https://crud-app-thing-finder.herokuapp.com/)
+
 ## Authors
 
 - [@Akash Kumar Jha](https://github.com/Akash1070)
@@ -48,6 +51,10 @@ To run tests, run the following command
 To run a Heroku deployment tests, click on the following link:
 
 [CRUD App](https://crud-app-thing-finder.herokuapp.com/)
+
+## Preview
+![Click HERE To View](https://github.com/Akash1070/CRUD-App---Thing-Finder/blob/main/Preview.png)
+
 ## 🚀 About Me
 
 Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using Data 
@@ -60,10 +67,7 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Akash1070)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)## Demo
 
-[Click HERE To View App](https://crud-app-thing-finder.herokuapp.com/)
 
-## Preview
-![Click HERE To View](https://github.com/Akash1070/CRUD-App---Thing-Finder/blob/main/Preview.png)
 ## Other Common Github Profile Sections
 👩‍💻 I’m interested in Petroleum Engineering
 
