@@ -68,7 +68,7 @@ Data Scientist Enthusiast | Petroleum Engineer Graduate | Solving Problems Using
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashkumar107/)## Demo
 
 
-## Other Common Github Profile Sections
+## About Me
 👩‍💻 I’m interested in Petroleum Engineering
 
 🧠 I’m currently learning Data Scientist | Data Analytics | Business Analytics
