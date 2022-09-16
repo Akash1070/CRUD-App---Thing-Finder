@@ -1,6 +1,11 @@
 
 # **Building And Deploying CRUD App On Heruko**
 
+![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![matplotlib.pyplot](https://img.shields.io/badge/Library-matplotlib.pyplot-orange.svg)
+![SQL Server 2019](https://img.shields.io/badge/SQL-2019-blue.svg)
+![flask](https://img.shields.io/badge/Library-flask-white.svg)
+
 The CRUD acronym identifies all of the major functions that are inherent to relational databases and the applications used to manage them, which include Oracle Database, Microsoft SQL Server, MySQL, and others.
 
 The four CRUD functions can perform different types of operations on selected data within the database.
